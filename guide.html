@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <link type="text/css" rel="stylesheet" href="css/normalize.css">
+    <link type="text/css" rel="stylesheet" href="css/bootstrap.min.css">
+    <link type="text/css" rel="stylesheet" href="css/tencent.css">
+    <script type="text/javascript" src="js/jquery-1.11.1.min.js"></script>
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+    <title>大家来猜世界杯</title>
+    <script>
+        $(document).ready(function(){
+            var times=parseInt($("#countdown").css("width"))/640;
+            $("#countdown").css("height",200*times);
+            $("#countdown li").css("font-size",100*times);
+            $("#countdown li").css("padding-top",20*times);
+            $(window).resize(function(){
+                var times=parseInt($("#countdown").css("width"))/640;
+                $("#countdown").css("height",200*times);
+                $("#countdown li").css("font-size",100*times);
+                $("#countdown li").css("padding-top",20*times);
+            })
+        })
+    </script>
+</head>
+<body>
+    <p id="countdownP">距世界杯开始还有</p>
+    <ul id="countdown">
+        <li>32</li>
+        <li>14</li>
+        <li>48</li>
+        <li style="clear: both;float: none"></li>
+    </ul>
+    <p id="countdownP2">抓紧时间竞猜小组赛结果吧！</p>
+    <button type="submit" id="return" style="margin-top: 30px">开始竞猜</button>
+    <a style="font-size: 28px;color: #00a0e9;text-align: center;display: block;margin-top: 40px;">规则说明</a>
+</body>
+</html>

@@ -23,10 +23,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="tencent.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="tencent.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/tencent.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="119" column="26" selection-start="2368" selection-end="2368" vertical-scroll-proportion="0.52693605" vertical-offset="1948" max-vertical-offset="16948">
+            <state line="119" column="26" selection-start="2368" selection-end="2368" vertical-scroll-proportion="0.0" vertical-offset="1948" max-vertical-offset="16948">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="43" selection-start="374" selection-end="374" vertical-scroll-proportion="0.4021164" vertical-offset="0" max-vertical-offset="567">
               <folding />
             </state>
           </provider>
@@ -62,7 +71,6 @@
       <list>
         <option value="$PROJECT_DIR$/css/normalize.css" />
         <option value="$PROJECT_DIR$/js/jquery-1.11.1.min.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/detail.html" />
         <option value="$PROJECT_DIR$/elimination.html" />
         <option value="$PROJECT_DIR$/finish.html" />
@@ -76,6 +84,7 @@
         <option value="$PROJECT_DIR$/result.html" />
         <option value="$PROJECT_DIR$/splash.html" />
         <option value="$PROJECT_DIR$/css/tencent.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -126,21 +135,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="tencent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tencent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tencent" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
+              <option name="myItemId" value="worldCup" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -152,7 +147,7 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="project.propVCSSupport.Background" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TranGoodZYF" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BlueBerry/blueberryMobile" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="options.splitter.details.proportions" value="0.2" />
@@ -216,13 +211,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25256222" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14860907" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -294,11 +289,6 @@
         <state line="26" column="6" selection-start="1189" selection-end="1189" vertical-scroll-proportion="-14.107142" vertical-offset="99" max-vertical-offset="836" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="45" selection-start="872" selection-end="872" vertical-scroll-proportion="0.36925796" vertical-offset="209" max-vertical-offset="1805" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/login.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="22" selection-start="581" selection-end="581" vertical-scroll-proportion="0.40282685" vertical-offset="0" max-vertical-offset="646" />
@@ -330,7 +320,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/tencent.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="119" column="26" selection-start="2368" selection-end="2368" vertical-scroll-proportion="0.52693605" vertical-offset="1948" max-vertical-offset="16948">
+        <state line="119" column="26" selection-start="2368" selection-end="2368" vertical-scroll-proportion="0.0" vertical-offset="1948" max-vertical-offset="16948">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="43" selection-start="374" selection-end="374" vertical-scroll-proportion="0.4021164" vertical-offset="0" max-vertical-offset="567">
           <folding />
         </state>
       </provider>
